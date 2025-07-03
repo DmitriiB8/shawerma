@@ -1,0 +1,43 @@
+.menu-item {
+  background: var(--card-bg);
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.4);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  transition: background .3s;
+}
+.menu-item:hover {
+  background: var(--card-hover);
+}
+.img-wrapper {
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+}
+.img-wrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.info {
+  padding: 15px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.info h3 {
+  margin-bottom: 10px;
+  color: var(--primary);
+}
+.desc {
+  flex: 1;
+  font-size: .9rem;
+  margin-bottom: 15px;
+}
+.price {
+  font-size: 1.1rem;
+  font-weight: bold;
+}

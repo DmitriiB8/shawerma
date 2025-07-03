@@ -1,0 +1,76 @@
+/* src/components/Auth/Auth.module.css */
+
+
+.authSection {
+  padding: 80px 20px;
+  background: var(--bg);
+  color: var(--fg);
+}
+.authSection h2 {
+  text-align: center;
+  font-size: 2rem;
+  color: var(--primary);
+  margin-bottom: 20px;
+}
+
+.toggle {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+.toggle button {
+  background: none;
+  border: none;
+  color: var(--fg);
+  font-size: 1rem;
+  padding: 8px 16px;
+  cursor: pointer;
+  transition: color .3s, border-bottom .3s;
+}
+.toggle button:hover {
+  color: var(--primary);
+}
+.toggle .active {
+  color: var(--primary);
+  border-bottom: 2px solid var(--primary);
+}
+
+.form {
+  max-width: 400px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.form input {
+  padding: 12px;
+  background: var(--card-bg);
+  color: var(--fg);
+  border: none;
+  border-radius: 5px;
+}
+.form input:focus {
+  outline: 2px solid var(--primary);
+}
+
+.submitBtn {
+  padding: 12px;
+  background: var(--primary);
+  color: #121212;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background .3s, box-shadow .3s;
+}
+.submitBtn:hover {
+  background: #e65c00;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+.message {
+  text-align: center;
+  margin-top: 20px;
+  color: var(--primary);
+}
