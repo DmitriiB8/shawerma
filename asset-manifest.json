@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/shawerma/static/css/main.b25bca1b.css",
-    "main.js": "/shawerma/static/js/main.bb2fcde5.js",
+    "main.css": "/shawerma/static/css/main.6b283ce2.css",
+    "main.js": "/shawerma/static/js/main.52c5aa99.js",
     "static/media/10.jpg": "/shawerma/static/media/10.295f3c1bc8d6c2aa170a.jpg",
     "static/media/04.jpg": "/shawerma/static/media/04.80ddf4586b2b0d5bb248.jpg",
     "static/media/01.jpg": "/shawerma/static/media/01.ebf3356ecc385ed9013b.jpg",
@@ -15,11 +15,11 @@
     "static/media/03.jpg": "/shawerma/static/media/03.52a4782e152298d06635.jpg",
     "static/media/11.jpg": "/shawerma/static/media/11.f00f609b011e10f7797f.jpg",
     "index.html": "/shawerma/index.html",
-    "main.b25bca1b.css.map": "/shawerma/static/css/main.b25bca1b.css.map",
-    "main.bb2fcde5.js.map": "/shawerma/static/js/main.bb2fcde5.js.map"
+    "main.6b283ce2.css.map": "/shawerma/static/css/main.6b283ce2.css.map",
+    "main.52c5aa99.js.map": "/shawerma/static/js/main.52c5aa99.js.map"
   },
   "entrypoints": [
-    "static/css/main.b25bca1b.css",
-    "static/js/main.bb2fcde5.js"
+    "static/css/main.6b283ce2.css",
+    "static/js/main.52c5aa99.js"
   ]
 }
