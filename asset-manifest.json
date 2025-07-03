@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shawerma/static/css/main.92b09c81.css",
+    "main.js": "/shawerma/static/js/main.bb2fcde5.js",
+    "static/media/10.jpg": "/shawerma/static/media/10.295f3c1bc8d6c2aa170a.jpg",
+    "static/media/04.jpg": "/shawerma/static/media/04.80ddf4586b2b0d5bb248.jpg",
+    "static/media/01.jpg": "/shawerma/static/media/01.ebf3356ecc385ed9013b.jpg",
+    "static/media/02.jpg": "/shawerma/static/media/02.1f7d88a6451e406443ee.jpg",
+    "static/media/06.jpg": "/shawerma/static/media/06.539f9cd0455cd11cb5ff.jpg",
+    "static/media/08.jpg": "/shawerma/static/media/08.913ba7d2d4463181794f.jpg",
+    "static/media/05.jpg": "/shawerma/static/media/05.d2b25f475b84e071491f.jpg",
+    "static/media/12.jpg": "/shawerma/static/media/12.3fb1e0f522ab739e204a.jpg",
+    "static/media/07.jpg": "/shawerma/static/media/07.bb79a3f0da467205bb31.jpg",
+    "static/media/09.jpg": "/shawerma/static/media/09.206b6bbf8d901fe616f4.jpg",
+    "static/media/03.jpg": "/shawerma/static/media/03.52a4782e152298d06635.jpg",
+    "static/media/11.jpg": "/shawerma/static/media/11.f00f609b011e10f7797f.jpg",
+    "index.html": "/shawerma/index.html",
+    "main.92b09c81.css.map": "/shawerma/static/css/main.92b09c81.css.map",
+    "main.bb2fcde5.js.map": "/shawerma/static/js/main.bb2fcde5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92b09c81.css",
+    "static/js/main.bb2fcde5.js"
+  ]
+}
